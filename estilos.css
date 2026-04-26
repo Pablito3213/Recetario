@@ -1,0 +1,56 @@
+h1 {
+  text-align:
+  color: brown;
+}
+
+h3 {
+  self-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+  color: green;
+}
+
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: "Arial", "Courier New", monospace;
+}
+
+
+a{
+  font-family: "Arial", "Courier New", monospace;
+}
+
+th {
+  background-color: gray;
+}
+
+.diagris {
+  background-color: gray;
+}
+
+.diaverde{
+  background-color: aqua;
+}
+
+.diaamarillo{
+  background-color: cornflowerblue;
+}
+
+.diarojo{
+  background-color: brown;
+}
+
+.diaceleste{
+  background-color: rosybrown;
+}
