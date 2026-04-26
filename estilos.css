@@ -54,3 +54,14 @@ th {
 .diaceleste{
   background-color: rosybrown;
 }
+
+li{ 
+  list-style: none;
+  color: green;
+}
+
+ol{
+  list-style: none;
+  color: aqua;
+
+}
