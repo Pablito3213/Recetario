@@ -62,6 +62,11 @@ li{
 
 ol{
   list-style: none;
-  color: aqua;
+  color: blue;
+
+}
+ul{
+  list-style: none;
+  color: blue;
 
 }
